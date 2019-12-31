@@ -8,7 +8,8 @@ class Cat
   
   
   
-  maru.meow
+ def meow 
+   maru.meow
 # "meow!"
   
   
